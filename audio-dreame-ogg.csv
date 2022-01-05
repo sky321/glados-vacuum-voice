@@ -1,0 +1,96 @@
+0.wav;Robot is starting!
+1.wav;Waiting for the network configuration.
+2.wav;Unable to connect to the WiFi network, please check WiFi password and try again later.
+3.wav;Unable to connect to the server, please check your local network and try again later.
+4.wav;Robot has exited network configuration mode.
+5.wav;Network connected successfully.
+6.wav;Network connection failed Please try again later.
+7.wav;Start cleaning.
+8.wav;Start spot cleaning.
+9.wav;Start scheduled. Cleaning.
+10.wav;Start resuming cleaning.
+11.wav;Paused.
+12.wav;Cleaning task completed.
+13.wav;Returning to the dock to charge.
+14.wav;Low battery returning to the dock to charge robot will resume working after charging.
+17.wav;Please move robot to the dock to charge.
+18.wav;Charging.
+19.wav;Please move robots from the dock before turning it off.
+20.wav;Low battery.
+21.wav;Low battery robot will turn off.
+22.wav;Please move robot to an area that needs to be cleaned.
+23.wav;Water tank has been installed.
+24.wav;Please check whether water tank is installed properly.
+25.wav;Low battery unable to carry out the scheduled clean up.
+26.wav;Restoring to factory settings.
+27.wav;Updating taking about five minutes. Do not turn off nor start a cleaning task.
+28.wav;Updated successfully.
+29.wav;Update failed Please try again later.
+30.wav;Positioning? Please wait.
+31.wav;Positioning failed map is Invalid robot will start a new clean up.
+33.wav;Visual navigation sensor error. Please wipe it clean and restart.
+34.wav;Just been not installed. Please install it.
+35.wav;Main brush error. Please check and clean it.
+36.wav;Side Brush Error Please check and clean it.
+37.wav;Right wheel error. Please check and clean it.
+38.wav;Left wheel error. Please check and clean it.
+39.wav;Please clean Cliff sensor.
+40.wav;Robot stuck. Please move it to a new position to restart.
+41.wav;Robots. Wheels suspended. Please move robots back on the ground.
+42.wav;Please check and clean filter.
+43.wav;Bumper error. Please gently tap to see if it rebounds.
+44.wav;Error please check the user manual or contact Customer service.
+45.wav;I am here.
+46.wav;Robot and phone connected. Please return to app to wait for the result.
+47.wav;Start charging.
+48.wav;Low battery returning to the dock.
+49.wav;High intensity magnetic field detected. Please move robot away and restart.
+50.wav;Charging error. Please clean Charging contacts.
+51.wav;Battery overheating or over cooling. Please wait until the battery's temperature returns to normal, then continue to use.
+52.wav;Robot tilted please put it on a level ground to restart.
+53.wav;Virtual no go zone detected. Please move robot away and restart.
+54.wav;Positioning succeeded. Resuming. Cleaning.
+55.wav;Positioning succeeded. Resuming. Returning to the dock.
+56.wav;Start selected room cleaning.
+57.wav;Start Zoned cleaning.
+58.wav;Proceed with Cleaning task.
+59.wav;Mapping completed. Please remove water tank timely.
+60.wav;Optical flow sensor error. Please wipe the optical flow sensor clean and restart.
+61.wav;Start mopping.
+62.wav;Start remote control cleaning.
+63.wav;Water tank has been removed.
+64.wav;Positioning failed map is Invalid. Robot will return to dock.
+65.wav;Resume returning to the dock.
+66.wav;Filter worn out. Please replace it timely.
+67.wav;Side Brush worn out. Please replace it timely.
+68.wav;Main brush worn out. Please replace it timely.
+69.wav;Cleanup path blocked. Please move robots to a new position to restart.
+70.wav;Please remove and clean Mop pad.
+72.wav;Please check whether laser distance sensor cover is jammed.
+73.wav;Edge sensor error. Please check and clean it.
+75.wav;Filter may not be dry or may be blocked.
+77.wav;Please start robot in non carpet area.
+78.wav;Please clean 3D Obstacle Avoidance sensor.
+79.wav;3d Obstacle Avoidance Sensor error. Please restart robot or contact customer service.
+81.wav;Ultrasonic sensor error. Please restart robot or contact customer service.
+82.wav;Start mapping.
+83.wav;Proceed with mapping.
+84.wav;Mapping completed.
+85.wav;Positioning succeeded. Proceeding with mapping.
+86.wav;Positioning failed. Restarting mapping.
+87.wav;Low battery returning to the dock.
+88.wav;Enter remote control mode.
+89.wav;Resume. Recharging.
+116.wav;Child lock on buttons. Locked.
+117.wav;Child lock off buttons. Unlocked.
+118.wav;Buttons locked. Press and hold the Dock button to unlock.
+119.wav;Buttons, locked.
+120.wav;Buttons unlocked.
+121.wav;The robot and the phone are connected. Please return to the Fantic app and wait for the network connection to complete.
+122.wav;Continuous positioning. Please wait.
+149.wav;Unable to reach the specified area, please try to clear obstacles in the past.
+150.wav;Unable to reach the specified area, please try to delete no go zones in the past.
+151.wav;The path is blocked. Please try to clear obstacles around your robot.
+152.wav;The path is blocked. Please try to delete no go zones, or move your robot out of this area.
+153.wav;Your robot is detected in the no go zone. Please move your robot out of this area.
+200.wav;Robot is shutting down!
