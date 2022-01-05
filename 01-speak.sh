@@ -6,6 +6,7 @@
 inputfile=audio_default.csv
 outputdir=output/speech
 
+rm -r $outputdir
 mkdir -p $outputdir
 
 while IFS=, read -r name quotedtext; do

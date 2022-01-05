@@ -7,6 +7,8 @@
 inputdir=output/speech
 outputdir=output/result
 
+rm -r $outputdir
+
 ffmpeg-normalize $inputdir/*.wav --normalization-type peak --target-level 0 -of $outputdir -ext wav
 
 for i in $outputdir/*.wav; do ffmpeg -i "$i" -acodec libvorbis "${i%.*}.ogg"; done
