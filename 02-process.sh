@@ -9,4 +9,4 @@ outputdir=output/result
 
 ffmpeg-normalize $inputdir/*.wav --normalization-type peak --target-level 0 -of $outputdir -ext wav
 
-ffmpeg -i $outputdir/*.wav -acodec libvorbis  $outputdir/*.ogg
+for i in $outputdir/*.wav; do ffmpeg -i "$i" -acodec libvorbis "${i%.*}.ogg"; done
