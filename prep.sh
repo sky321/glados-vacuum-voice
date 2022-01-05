@@ -20,7 +20,7 @@ echo
 echo "----- install needed tools -----"
 echo
 echo
-sudo apt-get install -y git wget curl ccrypt python3 md5sum ffmpeg
+sudo apt-get install -y git wget curl ccrypt python3 ffmpeg
 sudo pip install ffmpeg-normalize
 
 
