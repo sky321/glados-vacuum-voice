@@ -7,7 +7,7 @@
 inputdir=output/speech
 outputdir=output/result
 
-rm -r $outputdir
+[ -d "$outputdir" ] && { rm -r $outputdir }
 
 ffmpeg-normalize $inputdir/*.wav --normalization-type peak --target-level 0 -of $outputdir -ext wav
 
